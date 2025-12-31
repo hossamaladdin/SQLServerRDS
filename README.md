@@ -1,4 +1,4 @@
-# Tap Assignment: Unified Terraform AWS RDS SQL Server
+# Unified Terraform AWS RDS SQL Server
 
 Provision SQL Server RDS on AWS with a unified, minimal Terraform setup supporting multiple environments (dev, stg, prod, and more).
 
